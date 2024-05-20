@@ -1,0 +1,25 @@
+Insights:
+
+1.Survival Rate:
+Out of 891 passengers, only 342 managed to survive, making the survival rate 38.38%.
+
+2. Survival Rate Comparison between Genders:
+The survival rate of females (68.12%) is higher than that of the males (31.88%).
+
+3.Survival Rate Comparison between Classes:
+The survival rate between the classes is as follows:
+First Class > Second Class > Third Class
+
+3. Survival Rate by Age:
+People with ages ranging from 20-30 survived the most, whereas those with ages from 70-80 survived the least.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Conclusion:
+
+1. Females and younger passengers, especially children, had higher survival rates.
+2. Passengers in 1st class and those who paid higher fares were more likely to survive.
+3. Family size had a notable impact, with small to medium-sized families having better survival rates.
+4. The embarkation point also influenced survival chances, indicating potential differences in the conditions or demographics associated with each embarkation point.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
